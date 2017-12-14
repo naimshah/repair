@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Repair",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1284,7 +1284,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-710x535-710x535.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Buka cover belakang dengan perlahan",
+                "caption": "1. Buka cover belakang dengan perlahan",
                 "active": false
               },
               {
@@ -1296,7 +1296,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-708x536-708x536.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Buka sedikit cover<br>",
+                "caption": "2. Buka sedikit cover<br>",
                 "active": false
               },
               {
@@ -1308,7 +1308,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3-711x531-711x531.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Cabut habis cover belakang",
+                "caption": "3. Cabut habis cover belakang",
                 "active": false
               },
               {
@@ -1320,7 +1320,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4-708x536-708x536.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Buka sedikit bateri",
+                "caption": "4. Buka sedikit bateri",
                 "active": false
               },
               {
@@ -1332,7 +1332,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/5-708x530-708x530.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Tarik sedikit bateri",
+                "caption": "5. Tarik sedikit bateri",
                 "active": false
               },
               {
@@ -1344,7 +1344,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/6-718x535-718x535.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Tarik bateri sampai habis",
+                "caption": "6. Tarik bateri sampai habis",
                 "active": true
               }
             ]
